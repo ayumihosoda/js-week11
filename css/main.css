@@ -1,0 +1,22 @@
+body {
+	margin: 0 auto;
+	text-align: center;
+}
+
+img {
+	width: 150px;
+}
+
+h1 {
+	font-size: 25px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+div {
+	display: inline-block;
+	margin: 50px 100px
+
+}
